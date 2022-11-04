@@ -8,6 +8,8 @@ Issues found:
 ```
 
 ## How to do it, all steps. Working by November 2022.
+All the steps and a demonstration are available at https://youtu.be/gcQGbHnZEYQ  
+
 - In the model registry find the model that you are interested, its version and press the button **export** button on the top right, next to view dataset, colored in blue.  
 
 - A side window will appear requesting to select the bucket where to export your model.  
